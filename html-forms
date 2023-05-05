@@ -48,7 +48,16 @@
           <label for="amount">How many patties would you like?</label>
           <input id="amount" type="number" step="1" name="amount">
 	        <!--Add your code below-->
-					
+          <section class="cooked"><input id="doneness" name="doneness" type="range"min="0" max="5" step="0.5">
+            <label for="doneness" min="0" max="5" step="0.5">How do you want your patty cooked
+            </label>
+            <br>
+            <span>Rare</span>
+             <!--Add your code below-->
+  
+            
+            <span>Well-Done</span>
+          </section>
           
         </section>
       </form>
