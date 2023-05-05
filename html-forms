@@ -88,8 +88,14 @@
             <label for="no">No</label>
             <input id="no" type="radio" name="cheese" value="no">
           </section>
+          <section class="bun-type">
+            <label for="bun">What type of bun would you like?</label>
+            <select id="bun" name="bun">
+            <option value="sesame">sesame<option>
+            <option value="potato">potato<option>
+            <option value="other">other</option>
+            </select>
             
-            <!--Add your code below for the third checkbox-->
         </section>
       </form>
     </section>
