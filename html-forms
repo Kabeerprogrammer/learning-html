@@ -114,6 +114,12 @@
           <br>
           <textarea id="extra" name="extra" rows="3" cols="40"></textarea>
         </section>
+        <hr>
+
+        <section class="submission">
+          <input type="Submit">
+          
+        </section>
       </form>
     </section>
   </body>
