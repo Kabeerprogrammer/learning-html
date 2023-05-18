@@ -10,19 +10,33 @@ h1 {
   color: maroon;
 }
 
-.title{color: teal;
-  
+.title {
+  color: teal;
 }
-.uppercase {text-transform: uppercase;}
-#article-title{font-family: cursive;}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+#article-title {
+  font-family: cursive;
+}
+
 a[href*='florence'] {
   color: lightgreen;
 }
+
 a[href*='beijing'] {
   color: lightblue;
 }
+
 a[href*='seoul'] {
   color: lightpink;
-}a:hover {color: darkorange;
- 
 }
+
+a:hover {
+  color:darkorange;
+}
+.heading-background {background-color: aqua;
+}
+#publish-time {color: gray;}
